@@ -1,3 +1,4 @@
+ views:
   - title: Grid2
     path: grid2
     type: custom:grid-layout
